@@ -1,5 +1,5 @@
 # NeuroUrbanism_EXP
-BPN Institute of TU Berlin project in collaboration with University of Amsterdam and Hafen City Universität Hamburg. This research project is a interdisciplinary collaboration of Architecture, Neuroscience and Psychology. The main point is to investigate how different tasks in a simulated urban area changes our perception of it and how we afford it. The experiment was completely programmed by myself, the stimuli were made by Samuel Pahlke from Hafen City University Hamburg. If you want to use it, please let me know so that I can send you the 64 different Stimuli. One of them you can see here:
+BPN Institute of TU Berlin project in collaboration with University of Amsterdam and Hafen City Universität Hamburg. This research project is a interdisciplinary collaboration of Architecture, Neuroscience and Psychology. The main point is to investigate how different tasks in simulated urban areas changes our perception and the way we execute those tasks. The experiment was completely programmed by myself, the stimuli were created by Samuel Pahlke from Hafen City University Hamburg. If one wants to use them, let me know and i can send them. 
 
 &ensp;
 
